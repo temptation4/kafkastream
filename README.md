@@ -1,4 +1,4 @@
-# Kafka Streams Fraud Detection Demo
+# Real-time-fraud-detection-kafka-streams
 
 This project is a simple Spring Boot and Kafka Streams demo that publishes sample transactions to Kafka and flags suspicious transactions as fraud alerts.
 
